@@ -1,1 +1,1 @@
-https://AnSaScience.github.io/rsschool-cv/cv
+https://ansascience.github.io/rsschool-cv/
