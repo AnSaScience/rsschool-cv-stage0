@@ -72,9 +72,19 @@ footer .main-info a:hover
 }
 footer{
     max-width: 1300px;
-    margin: 0 auto;
+    margin: 0 auto; 
 }
-
+footer .main-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.rs-logo{
+height:150px;
+}
+footer ul{
+    list-style-type: none;
+}
 @media(max-width:800px){
     .header-nav{
         display: none;
@@ -93,3 +103,4 @@ footer{
             margin-top: 0;
         }
   }
+
